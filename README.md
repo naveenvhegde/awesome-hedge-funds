@@ -7,7 +7,7 @@ Inspired by [awesome-php](https://github.com/ziadoz/awesome-php).
 
 | Name        | Founder(s)   | Careers | 
 | :---        | :---        | :---    |
-| [Citadel](https://www.citadel.com) | [Kenneth C Griffin](https://en.wikipedia.org/wiki/Kenneth_C._Griffin) | [jobs](https://www.citadel.com/careers) |
+| [Citadel](https://www.citadel.com) | [Kenneth C. Griffin](https://en.wikipedia.org/wiki/Kenneth_C._Griffin) | [jobs](https://www.citadel.com/careers) |
 | [Bridgewater Associates](https://www.bridgewater.com/) | [Ray Dalio](https://en.wikipedia.org/wiki/Ray_Dalio) | [jobs](https://www.bridgewater.com/working-at-bridgewater/job-openings)
 | [Renaissance Technologies](https://www.rentec.com/Home.action?index=true) | [Jim Simons](https://en.wikipedia.org/wiki/Jim_Simons_(mathematician)) | [jobs](https://www.rentec.com/Careers.action) |
 | [PDT Partners](https://www.pdtpartners.com/) | [Peter Muller](https://en.wikipedia.org/wiki/Pete_Muller_(businessman_and_singer-songwriter)) | [jobs](https://pdtpartners.com/careers) |
@@ -16,8 +16,11 @@ Inspired by [awesome-php](https://github.com/ziadoz/awesome-php).
 | [Tower Research Capital](https://www.tower-research.com/) | [Mark Gorton](https://en.wikipedia.org/wiki/Mark_Gorton) | [jobs](https://www.tower-research.com/positions) |
 | [Two Sigma Investments](https://www.twosigma.com/) | [John Overdeck](https://en.wikipedia.org/wiki/John_Overdeck), [David Siegel](https://en.wikipedia.org/wiki/David_Siegel_(computer_scientist)), [Mark Pickard]() | [jobs](https://www.twosigma.com/careers/) |
 | [Millennium Management](https://www.mlp.com/) | [Israel Englander](https://en.wikipedia.org/wiki/Israel_Englander) | [jobs](https://www.mlp.com/careers/) |
+| [Elliott Management](https://www.elliottmgmt.com) | [Paul Singer](https://en.wikipedia.org/wiki/Paul_Singer_(businessman)) | []() |
+| [Davidson Kempner Capital Management](https://www.davidsonkempner.com/) | [Marvin H. Davidson]() | []() |
+| [Blackrock](https://www.blackrock.com/) | [Bob Kapito](https://en.wikipedia.org/wiki/Robert_S._Kapito), [Larry Fink](https://en.wikipedia.org/wiki/Larry_Fink) | [jobs](https://careers.blackrock.com/) |
 | []() | []() | []() |
-| []() | []() | []() |
+
 
 ** Disclaimer - This list is curated based on my knowledge and news articles. Information may not be accurate.
 
